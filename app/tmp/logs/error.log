@@ -1507,3 +1507,21 @@
 #1 /Applications/MAMP/htdocs/Djinn/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #2 /Applications/MAMP/htdocs/Djinn/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2012-07-05 18:11:13 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\index.php(42): require('C:\Program File...')
+#4 {main}
+2012-07-05 18:12:53 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\index.php(42): require('C:\Program File...')
+#4 {main}
+2012-07-05 18:15:58 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 C:\Program Files (x86)\EasyPHP-5.3.9\www\Djinn\index.php(42): require('C:\Program File...')
+#4 {main}
